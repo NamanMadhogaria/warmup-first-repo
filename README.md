@@ -32,7 +32,7 @@ main or master: This is the primary branch. The code on this branch should alway
 
 dev or develop: This branch is for ongoing development. New features are typically merged here first for testing and integration before being merged into the main branch.
 
-feature/*: These are short-lived branches created for a specific feature or task. A descriptive name, like feature/add-user-authentication, is used. Once the feature is complete, the branch is merged into dev and then deleted. This is a key part of most modern workflows, like GitFlow and GitHub Flow.
+feature: These are short-lived branches created for a specific feature or task. A descriptive name, like feature/add-user-authentication, is used. Once the feature is complete, the branch is merged into dev and then deleted. This is a key part of most modern workflows, like GitFlow and GitHub Flow.
 
 What Git Solves in Collaborative Development
 Before Git, a common problem was developers overwriting each other's code, leading to lost work and frustration. Git's distributed nature and powerful features solve several critical problems in collaborative environments:
