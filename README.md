@@ -4,6 +4,11 @@ Firstly I learned about 366pi.tech in which their core mission is to help busine
 •	Through SharePoint services 366pi have enabled customers with selective process transformation through web parts development for functionality enhancement, intelligent content management, real-time business intelligence, and seamless collaboration.
 •	Focus on Sustainability: A major and unique aspect of 366pi's work is its emphasis on sustainability. They have developed a proprietary framework called the "Digital Sustainability Alignment Model" (D-SAM) to help companies integrate sustainability and technology for growth.
 •	Blockchain Consulting and Development: Blockchain consulting service is helping businesses identify specific problem areas where blockchain could be leveraged as well as incorporate blockchain as a part of the digital transformation journey. Optimize enterprise business case through custom built solutions.
+Secondly I learned about Flocard.It is a digital business card app that goes beyond just networking - it's an ecosystem that supports sustainable development goals, climate action, and sustainability.3 key takeaways from FloCard app are:
+•	Better Planet Together Initiative: FloCard has a campaign called #BetterPlanetTogether, which encourages users to contribute to a greener future.
+•	For Businesses, it is designed to maximize ecological and carbon capture impacts, aligning directly with your net zero goals
+•	Sustainability Dashboard: The platform offers a business dashboard with advanced analytics and reporting to help companies track and manage their environmental footprint.
+
 
 Git's Core Concepts: The Basics
 Git operates on a three-stage model: the working directory, the staging area (or index), and the local repository.
