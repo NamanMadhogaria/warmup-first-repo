@@ -1,4 +1,9 @@
 # warmup-first-repo
+Firstly I learned about 366pi.tech in which their core mission is to help businesses achieve sustained growth by integrating technology with sustainability, a concept they refer to as "digital sustainability" and there were 3 key takeaways
+•	Through SharePoint services 366pi have enabled customers with selective process transformation through web parts development for functionality enhancement, intelligent content management, real-time business intelligence, and seamless collaboration.
+•	Focus on Sustainability: A major and unique aspect of 366pi's work is its emphasis on sustainability. They have developed a proprietary framework called the "Digital Sustainability Alignment Model" (D-SAM) to help companies integrate sustainability and technology for growth.
+•	Blockchain Consulting and Development: Blockchain consulting service is helping businesses identify specific problem areas where blockchain could be leveraged as well as incorporate blockchain as a part of the digital transformation journey. Optimize enterprise business case through custom built solutions.
+
 Git's Core Concepts: The Basics
 Git operates on a three-stage model: the working directory, the staging area (or index), and the local repository.
 
